@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @VJ-Rocks
+- 👋 Hi, I’m @Vijayendra
 - 👀 I’m interested in Webtechnology & AI.
-- 🌱 I’m currently learning CS & Internet.
+- 🌱 I’m am a Product Manager.
 - 💞️ I’m looking to collaborate on Webtechnology.
 - 📫 How to reach me : Msg me
 
